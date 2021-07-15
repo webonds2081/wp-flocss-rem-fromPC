@@ -1,4 +1,4 @@
-# wp-flocss-rem-fromSPの使い方
+# wp-flocss-rem-fromPCの使い方
 
 
 - WordPressThemeは必要に応じて変更してください
