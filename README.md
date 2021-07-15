@@ -21,6 +21,4 @@
 ## 使い方
 - npm i でインストール → node_modulesが生成されればOK
 - npx gulp で起動
-# wp-flocss-rem-fromSP
-# wp-flocss-rem-fromSP
-# wp-flocss-rem-fromPC
+
